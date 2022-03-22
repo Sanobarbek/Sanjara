@@ -17,7 +17,7 @@ start_text = """
 
 Izlamoqchi Bo'lgan Qo'shiq Nomini Yozing... 😍🥰🤗
 
-𝐄𝐠. ```/song Faded```
+Qo'shiq Izlash. ```/song Faded```
 """
 
 owner_help = """
