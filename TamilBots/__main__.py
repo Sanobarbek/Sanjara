@@ -13,7 +13,7 @@ start_text = """
 
 \n\nSalom Men 🎸Men Musiqa Izlovchi Botman[🎶](https://telegra.ph/file/6cb884fe1cb943ec12df1.mp4)
 
-I'M Music Bot By @TamilBots 🤖
+
 
 𝗦𝗲𝗻𝗱 𝗧𝗵𝗲 𝗡𝗮𝗺𝗲 𝗢𝗳 𝗧𝗵𝗲 𝗦𝗼𝗻𝗴 𝗬𝗼𝘂 𝗪𝗮𝗻𝘁... 😍🥰🤗
 
